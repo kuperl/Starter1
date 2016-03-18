@@ -1,2 +1,2 @@
-# Starter1
+# Starter1 learning github
 First GitHub repository
